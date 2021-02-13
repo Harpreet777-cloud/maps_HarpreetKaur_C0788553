@@ -164,23 +164,9 @@ public class MapsActivity<degrees> extends FragmentActivity implements OnMapRead
 
             private void setmarker(LatLng latLng) {
                 MarkerOptions options = new MarkerOptions().position(latLng);
-                options.title("B");
+                options.title("Your destination");
 //                Object lng;
-//                center:
-//                {
-//                    double v = 7.0994739;
-//                    lat : 7.0994739,
-//
-//
-//
-//                }
-//                Object position;
-//                google.maps.Marker markerA = new google.maps.Marker({
-//                        position:
-//
-//                    Object lng;
-//                    lat:   7.0994739,
-//
+
 //                            lng:-73.106770,
 //
 //                },

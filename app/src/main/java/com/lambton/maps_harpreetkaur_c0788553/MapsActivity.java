@@ -164,7 +164,7 @@ public class MapsActivity<degrees> extends FragmentActivity implements OnMapRead
 
             private void setmarker(LatLng latLng) {
                 MarkerOptions options = new MarkerOptions().position(latLng);
-                options.title("A");
+                options.title("B");
 //                Object lng;
 //                center:
 //                {
